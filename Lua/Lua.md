@@ -23,16 +23,21 @@ Features:
 
 ###Basics
 
-* Save the following in a file called "hello.lua":          
- 
-	print("Hello World")
-	
-* Type the following to run it:                    
+* Save the following in a file called "hello.lua":
 
+```
+	print("Hello World")
+```
+
+* Type the following to run it:
+
+```
 	%lua hello.lua
+```
 
 * The following program "factorial.lua" asks the user for a number and calculates its factorial.                  
 
+```
 	--defines factorial function       
 	function fact(n)           
 		if n == 0 then            
@@ -45,7 +50,7 @@ Features:
 	print("enter a number:")            
 	a = io.read("*n")			--reads a number           
 	print(fact(a))		
-
+```
 * 
 	
 	
