@@ -18,4 +18,4 @@ Collection of notes and cheatsheets
 * Econometric Methods    
 
 ## Programming
-[Lua](/Programming/Lua/home.md)
+[Lua](blob/master/Programming/Lua/home.md)
