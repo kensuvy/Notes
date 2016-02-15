@@ -1,6 +1,6 @@
 # Java
 
-**Index**
+**Index**         
 1. [Introduction](#Introduction)          
 2. [Simple Programs](#Simple Programs)	
 
@@ -12,5 +12,18 @@
 	//Text-printing program
 	public class Hello
 	{	//main method begins the execution of the app
+		public static void main(String[] args)
+		{ 
+			System.out.println("Hello World!");
+		}	//end of main
+	}	//end of class Hello
 		
 ```
+* Output:
+```
+	Hello World!
+```
+* `//` is end-of-line comment.
+* `/* */` is traditional comment.
+* `/** */` is Javadoc comment. Allows you to embed program documentation directly in your program.
+* 
