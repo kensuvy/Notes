@@ -19,7 +19,7 @@
 	}	//end of class Hello
 		
 ```
-* Output:
+* Output:      
 ```
 	Hello World!
 ```
